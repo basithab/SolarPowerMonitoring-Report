@@ -1,1 +1,1 @@
-# SolarPowerMonitoring-Rerport
+# SolarPowerMonitoring-Report
